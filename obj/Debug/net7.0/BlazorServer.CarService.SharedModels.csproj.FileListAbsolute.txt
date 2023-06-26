@@ -1,0 +1,12 @@
+/Users/Freddoo/Projects/Demo/BlazorServer.CarServiceSolution/BlazorServer.CarService.Shared/bin/Debug/net7.0/BlazorServer.CarService.SharedModels.deps.json
+/Users/Freddoo/Projects/Demo/BlazorServer.CarServiceSolution/BlazorServer.CarService.Shared/bin/Debug/net7.0/BlazorServer.CarService.SharedModels.dll
+/Users/Freddoo/Projects/Demo/BlazorServer.CarServiceSolution/BlazorServer.CarService.Shared/bin/Debug/net7.0/BlazorServer.CarService.SharedModels.pdb
+/Users/Freddoo/Projects/Demo/BlazorServer.CarServiceSolution/BlazorServer.CarService.Shared/obj/Debug/net7.0/BlazorServer.CarService.SharedModels.csproj.AssemblyReference.cache
+/Users/Freddoo/Projects/Demo/BlazorServer.CarServiceSolution/BlazorServer.CarService.Shared/obj/Debug/net7.0/BlazorServer.CarService.SharedModels.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Freddoo/Projects/Demo/BlazorServer.CarServiceSolution/BlazorServer.CarService.Shared/obj/Debug/net7.0/BlazorServer.CarService.SharedModels.AssemblyInfoInputs.cache
+/Users/Freddoo/Projects/Demo/BlazorServer.CarServiceSolution/BlazorServer.CarService.Shared/obj/Debug/net7.0/BlazorServer.CarService.SharedModels.AssemblyInfo.cs
+/Users/Freddoo/Projects/Demo/BlazorServer.CarServiceSolution/BlazorServer.CarService.Shared/obj/Debug/net7.0/BlazorServer.CarService.SharedModels.csproj.CoreCompileInputs.cache
+/Users/Freddoo/Projects/Demo/BlazorServer.CarServiceSolution/BlazorServer.CarService.Shared/obj/Debug/net7.0/BlazorServer.CarService.SharedModels.dll
+/Users/Freddoo/Projects/Demo/BlazorServer.CarServiceSolution/BlazorServer.CarService.Shared/obj/Debug/net7.0/refint/BlazorServer.CarService.SharedModels.dll
+/Users/Freddoo/Projects/Demo/BlazorServer.CarServiceSolution/BlazorServer.CarService.Shared/obj/Debug/net7.0/BlazorServer.CarService.SharedModels.pdb
+/Users/Freddoo/Projects/Demo/BlazorServer.CarServiceSolution/BlazorServer.CarService.Shared/obj/Debug/net7.0/ref/BlazorServer.CarService.SharedModels.dll
